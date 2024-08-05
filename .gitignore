@@ -1,0 +1,4 @@
+data/backup/*
+data/world/*
+whitelist.json
+ops.json
