@@ -1,0 +1,119 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ToyHugs",
+      "uniqueId": "6026c641-c167-49cc-a966-c1c9578372d2"
+    },
+    "time": 1722850900668,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/OZAAeGBtpJ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ToyHugs",
+      "uniqueId": "6026c641-c167-49cc-a966-c1c9578372d2"
+    },
+    "time": 1722850897808,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/F3e9KntQAV"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ToyHugs",
+      "uniqueId": "6026c641-c167-49cc-a966-c1c9578372d2"
+    },
+    "time": 1722789237214,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/M11coHGlho"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ToyHugs",
+      "uniqueId": "6026c641-c167-49cc-a966-c1c9578372d2"
+    },
+    "time": 1722789233920,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Mx4PPxR50O"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ToyHugs",
+      "uniqueId": "6026c641-c167-49cc-a966-c1c9578372d2"
+    },
+    "time": 1722789008436,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "./config/spark/heap-2024-08-04_16.29.57.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "nicogb",
+      "uniqueId": "22a87511-470f-4f0d-9e35-1e2e138947f3"
+    },
+    "time": 1722716067214,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VlX8p9Qe1X"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "nicogb",
+      "uniqueId": "22a87511-470f-4f0d-9e35-1e2e138947f3"
+    },
+    "time": 1722715373734,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ICfYtfxNHo"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "nicogb",
+      "uniqueId": "22a87511-470f-4f0d-9e35-1e2e138947f3"
+    },
+    "time": 1722673988084,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/46rRwr3rmb"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "nicogb",
+      "uniqueId": "22a87511-470f-4f0d-9e35-1e2e138947f3"
+    },
+    "time": 1722594155593,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "./config/spark/heap-2024-08-02_10.22.31.hprof"
+    }
+  }
+]

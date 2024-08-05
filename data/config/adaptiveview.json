@@ -1,0 +1,87 @@
+{
+  "update_rate": 1200,
+  "max_view_distance": 14,
+  "min_view_distance": 6,
+  "max_sim_distance": 7,
+  "min_sim_distance": 2,
+  "allow_on_client": false,
+  "broadcast_to_ops": false,
+  "broadcast_changes_default": "ALL",
+  "broadcast_changes": [
+    "toyhugs"
+  ],
+  "broadcast_lock_default": "OPS",
+  "broadcast_lock": [],
+  "rules": [
+    {
+      "type": "PLAYERS",
+      "min": 15,
+      "target": "VIEW",
+      "step": 10,
+      "max_distance": 4
+    },
+    {
+      "type": "PLAYERS",
+      "min": 15,
+      "target": "SIMULATION",
+      "step": 10,
+      "max_distance": 2
+    },
+    {
+      "type": "PLAYERS",
+      "min": 12,
+      "target": "VIEW",
+      "step": 10,
+      "max_distance": 6
+    },
+    {
+      "type": "PLAYERS",
+      "min": 12,
+      "target": "SIMULATION",
+      "step": 10,
+      "max_distance": 3
+    },
+    {
+      "type": "PLAYERS",
+      "min": 7,
+      "target": "VIEW",
+      "step": 10,
+      "max_distance": 8
+    },
+    {
+      "type": "PLAYERS",
+      "min": 10,
+      "target": "SIMULATION",
+      "step": 10,
+      "max_distance": 4
+    },
+    {
+      "type": "PLAYERS",
+      "min": 5,
+      "target": "VIEW",
+      "step": 10,
+      "max_distance": 10
+    },
+    {
+      "type": "PLAYERS",
+      "min": 7,
+      "target": "SIMULATION",
+      "step": 10,
+      "max_distance": 5
+    },
+    {
+      "type": "PLAYERS",
+      "max": 4,
+      "target": "VIEW",
+      "step": 10,
+      "max_distance": 10
+    },
+    {
+      "type": "PLAYERS",
+      "max": 4,
+      "target": "SIMULATION",
+      "step": 10,
+      "max_distance": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "22a87511-470f-4f0d-9e35-1e2e138947f3",
+    "name": "nicogb",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6026c641-c167-49cc-a966-c1c9578372d2",
+    "name": "ToyHugs",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ff097fb6-55ee-4879-b575-a72a52df6f7d",
+    "name": "Yayaka",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

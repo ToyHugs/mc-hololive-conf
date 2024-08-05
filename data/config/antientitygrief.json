@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "entities": {
+    "minecraft:enderman": {
+      "DESTROY_BLOCKS": false,
+      "MELT_SNOW": false,
+      "PLACE_BLOCKS": false,
+      "TRAMPLE_CROPS": false,
+      "TRAMPLE_EGGS": false
+    }
+  }
+}
