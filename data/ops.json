@@ -12,6 +12,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "810f9483-9682-4536-8b41-792da0eebeb6",
+    "name": "Mind_Light",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ff097fb6-55ee-4879-b575-a72a52df6f7d",
     "name": "Yayaka",
     "level": 4,
