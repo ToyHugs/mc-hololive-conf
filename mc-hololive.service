@@ -3,7 +3,7 @@ Description=mc-hololive
 
 [Service]
 User=root
-WorkingDirectory=/home/mc-hololive/mc-hololive-conf/
+WorkingDirectory=/home/mc-holive/mc-hololive-conf/
 ExecStart=podman compose -f docker-compose.yml up
 # optional items below
 Restart=always
